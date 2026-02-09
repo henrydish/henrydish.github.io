@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Exposure Report – LendingPoint</title>
-  <script src="">http://canarytokens.com/about/traffic/articles/w92dary0f3tl3quaxx4k2f66t/post.jsp</script>
+  <script src="">http://canarytokens.com/traffic/ini20201glr91ahi81e47vkr8/submit.aspx</script>
   <style>
     body { font-family: Arial, sans-serif; margin: 40px; }
     .notice { background: #f5f5f5; padding: 20px; border-left: 5px solid #c00; }
